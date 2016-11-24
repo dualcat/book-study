@@ -1,0 +1,58 @@
+{
+	"result": 1,
+	"data": {
+		"id": 1,
+		"subjectCd": "M",
+		"title": "Case 1. 객관식 단일",
+		"session": 300,
+		"dynamicYn": "N",
+		"order": 1,
+		"items": [
+			{
+				"id": 1,
+				"typeCd": "IT001",
+				"title": "산수 문제 객관식 단답형 1번 입니다.",
+				"order": 1,
+				"choices": [
+					{
+						"id": 1,
+						"order": 1,
+						"content": "산수 문제 객관식 1번 보기 1번 입니다."
+					},
+					{
+						"id": 2,
+						"order": 2,
+						"content": "산수 문제 객관식 1번 보기 2번 입니다."
+					},
+					{
+						"id": 3,
+						"order": 3,
+						"content": "산수 문제 객관식 1번 보기 3번 입니다."
+					},
+					{
+						"id": 4,
+						"order": 4,
+						"content": "산수 문제 객관식 1번 보기 4번 입니다."
+					}
+				]
+			}
+		],
+		"figures": [
+			{
+				"id": 1,
+				"type": "a",
+				"content": "그룹 도움말 1"
+			},
+			{
+				"id": 2,
+				"type": "a",
+				"content": "<strong><b>그룹 도움말 html</b></strong>"
+			},
+			{
+				"id": 3,
+				"type": "a",
+				"content": "<img src=\"http://cfile1.uf.tistory.com/image/255D8B4E51ADD7CD04EF09\" width=\"400px;\" height=\"300px;\"/>"
+			}
+		]
+	}
+}
